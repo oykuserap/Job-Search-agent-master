@@ -1,0 +1,11 @@
+anthropic
+google-genai
+openai
+reportlab
+pypdf
+requests
+beautifulsoup4
+python-dotenv
+lxml
+fastapi
+uvicorn[standard]
